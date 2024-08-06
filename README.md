@@ -9,8 +9,8 @@ Latest OpenCore EFI specifically and only for this laptop. \
 > - MacOs `13.6.8 ` Ventura \
 Any earlier version will propably work too. I haven't tested with Sonoma yet. 
 ### IMPORTANT:
-**Because you have to use the iGPU builtin the Ryzen CPU, I highly recommend to disable the RTX 2050 in UEFI firmware settings. \
-I haven't been able to boot macOS Venture, after disabling it, It has booted successfully! \
+**Because you have to use the iGPU built in the Ryzen CPU, I highly recommend to disable the RTX 2050 in UEFI firmware settings. \
+I haven't been able to boot macOS Ventura. After disabling RTX 2050, It has booted successfully! \
 You can do that by selecting UMA Graphics instead of Switchable graphics. \
 And also you should assign maximum VRAM to iGPU (2GB), also in the UEFI firmware settings. (UMA Frame Buffer Size)**
 
