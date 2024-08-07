@@ -34,7 +34,7 @@ And also you should assign maximum VRAM to iGPU (2GB), also in the UEFI firmware
 |   ✅    | Bluetooth          | Works flawlessly thanks to BlueToolFixup.kext |
 |   ✅    | USB's                 | All USB's work just fine, they've been mapped with USBMap   |
 |   ✅    | Keyboard + Backlight  | Works without no issues at all |
-|   ❌    | Speakers                 | Unfortunately I couldn't make the speakers work, however you can get sound with any headphones or bluetooth headphones   |
+|   ✅    | Speakers                 | Speakers are working without an issues   |
 |   ✅    | Microphone                 |   |
 |   ✅    | Webcam                |                                    |
 |   ❌    | Trackpad + Gestures      | Trackpad unfortunately doesn't work   |
