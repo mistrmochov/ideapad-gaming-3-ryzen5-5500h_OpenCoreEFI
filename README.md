@@ -41,3 +41,4 @@ And also you should assign maximum VRAM to iGPU (2GB), also in the UEFI firmware
 |   ✅    | Battery + Status               |                                    |
 |   ✅    | HDMI               |    |
 |   ❌    | NVIDIA GeForce RTX 2050               |  No driver  |
+|   ✅    | AMD Radeon Vega Series               |  Fully working with macOS with NootedRed.kext, full 3D acceleration!  |
