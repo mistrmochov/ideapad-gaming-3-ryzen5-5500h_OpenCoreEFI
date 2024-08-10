@@ -30,7 +30,7 @@ And also you should assign maximum VRAM to iGPU (2GB), also in the UEFI firmware
 
 | Status | Name                 | Additional Information                                                         |
 | :----: | -------------------- | ------------------------------------------------------------ |
-|   ❌   | WiFi                | Couldn't make it work yet |
+|   ❌   | WiFi                | While the Wifi doesn't work, you can use Android USB thetering thanks to HoRNDIS.kext |
 |   ✅    | Bluetooth          | Works flawlessly thanks to BlueToolFixup.kext |
 |   ✅    | USB's                 | All USB's work just fine, they've been mapped with USBMap   |
 |   ✅    | Keyboard + Backlight  | Works without no issues at all |
