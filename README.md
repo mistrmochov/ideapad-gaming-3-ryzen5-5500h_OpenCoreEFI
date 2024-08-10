@@ -1,7 +1,7 @@
 # ideapad-gaming-3-ryzen5-5500h_OpenCoreEFI
 
 ### Abstract
-Latest OpenCore EFI specifically and only for this laptop. \
+Latest OpenCore EFI specifically and only for this laptop.
 
 ### Supported Devices
 > - **Lenovo Ideapad Gaming 3 (The version with Ryzen 5500H and RTX 2050)**
