@@ -19,7 +19,7 @@ And also you should assign maximum VRAM to iGPU (2GB), also in the UEFI firmware
 | Hardware    | Additional Information                                                         |
 | ----------- | ------------------------------------------------------------ |
 | CPU         | AMD Ryzen 5 5500H                                           |
-| Memory      | 16 GB SO-DIMM DDR4 3200MHz                                   |
+| Memory      | 32 GB SO-DIMM DDR4 3200MHz (custom)                          |
 | DISK        | PCIe M.2 NVMe SSD 500GB + PCIe M.2 NVMe SSD 1TB (additional) |
 | Graphics    | AMD Radeon Vega Series & NVIDIA GeForce RTX 2050             |
 | Monitor     | FHD 1920x1080 144Hz                                          |
